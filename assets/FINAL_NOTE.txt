@@ -1,1 +1,0 @@
-Final media assets are being committed as native Git blobs. This temporary note will be removed in the same cleanup pass.
