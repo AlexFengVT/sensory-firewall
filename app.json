@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Sensory Firewall",
+    "slug": "sensory-firewall",
+    "version": "0.5.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Sensory Firewall uses the camera to understand the current scene and only report useful events.",
+        "NSMicrophoneUsageDescription": "Sensory Firewall uses the microphone to transcribe short audio chunks for useful information.",
+        "NSSpeechRecognitionUsageDescription": "Reserved for future on-device speech recognition support."
+      }
+    },
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO"
+      ]
+    },
+    "description": "A default-silent multimodal attention filter that surfaces only information worth interrupting the user for."
+  }
+}
