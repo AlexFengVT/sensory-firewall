@@ -1,0 +1,28 @@
+{
+  "name": "sensory-firewall",
+  "version": "0.5.0",
+  "private": true,
+  "description": "A context-aware multimodal attention filter for iPhone, built with Expo and OpenAI.",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "ios": "expo start --ios",
+    "android": "expo start --android",
+    "web": "expo start --web",
+    "doctor": "expo-doctor"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "57.0.4",
+    "expo-av": "16.0.8",
+    "expo-camera": "57.0.1",
+    "expo-file-system": "57.0.0",
+    "expo-speech": "57.0.0",
+    "expo-status-bar": "57.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.29.7"
+  }
+}
