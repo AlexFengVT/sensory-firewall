@@ -1,0 +1,32 @@
+# Dependencies / Expo state
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Local runtimes and package caches
+_runtime/
+_npm_cache/
+_npm_global/
+_temp/
+
+# Logs and local secrets
+*.log
+.env
+.env.*
+!.env.example
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local archives / recordings
+*.m4a
+*.mp3
+*.mp4
+*.mov
+*.webm
+recordings/
+archives/
