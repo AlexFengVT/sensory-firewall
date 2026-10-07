@@ -98,7 +98,6 @@ sensory-firewall/
 │   ├── core.js
 │   └── policy.js
 ├── assets/
-│   ├── icon.png
 │   ├── precision_cue.wav
 │   └── white_noise.wav
 ├── docs/
