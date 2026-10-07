@@ -23,7 +23,7 @@ export const DEFAULT_SETTINGS = {
   precisionSummaryTurns: '16',
   precisionSummaryChars: '2200',
   triggerEnabled: false,
-  triggerKeywords: 'Alex',
+  triggerKeywords: '',
   triggerListenEverySeconds: '12',
   triggerAudioChunkSeconds: '4',
   triggerCueEnabled: true,

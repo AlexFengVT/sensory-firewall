@@ -4,7 +4,6 @@
     "slug": "sensory-firewall",
     "version": "0.5.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "ios": {
       "supportsTablet": false,
